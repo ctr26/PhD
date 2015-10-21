@@ -1,0 +1,5 @@
+To use coatingRT.m, the function multidiel.m by Orfanidis must be in your matlab path.
+
+multidiel.m is available on the mathworks website in the package ewa.zip from Orfanidis:
+
+http://www.mathworks.com/matlabcentral/fileexchange/loadFile.do?objectId=4456
