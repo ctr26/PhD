@@ -1,0 +1,12 @@
+E-709 GCS LabVIEW Driver Set
+
+Version: 6.3.1
+Manual file: E709_GCSLabVIEW_PZ225E.pdf
+
+PI-Software Module ID: 19
+
+© Physik Instrumente (PI) GmbH & Co. KG
+76228 Karlsruhe, Germany      
+FAX: (+49)721-4846-299
+EMail: info@pi.ws                             
+www.pi.ws
