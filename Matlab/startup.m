@@ -1,12 +1,21 @@
-set(0,'DefaultFigureWindowStyle','docked')
-set(0,'defaulttextinterpreter','latex')
+set(0,'DefaultTextFontsize',15, ...    
+        'DefaultFigureWindowStyle','docked', ...
+        'DefaultFigureColor',[1 1 1],...
+    'defaulttextinterpreter','latex',...
+    'DefaultTextFontWeight','normal', ...
+    'DefaultAxesFontsize',15, ...
+    'DefaultAxesFontname','Arial', ...
+    'DefaultLineLineWidth', 1)
+
 %% 
 A = userpath;
-A=A(1:end-1);
+A=A(1:end);
 addpath(genpath(A))
-clear all
+
 
 A=A(1:end-1);
-C= strsplit(A,'/')
-C=C(1:end-1);
-addpath('/Applications/Fiji.app/scripts')
+C= strsplit(A,'/');
+C=C(1:end);
+addpath('/Applications/Fiji.app/scripts');
+
+clear all
